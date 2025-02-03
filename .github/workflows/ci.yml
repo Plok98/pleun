@@ -10,10 +10,7 @@ on:
 
 jobs:
   build:
-    runs-on: ${{ matrix.os }}
-    strategy:
-      matrix:
-        os: [ubuntu-latest, macos-latest, windows-latest]
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
@@ -27,6 +24,9 @@ jobs:
         run: |
           gem install bundler
           bundle install
+
+      - name: Configure Jekyll environment
+        run: echo "JEKYLL_ENV=production" >> $GITHUB_ENV
 
       - name: Build site
         run: bundle exec jekyll build

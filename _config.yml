@@ -90,6 +90,7 @@ plugins:
   - jekyll-paginate
   - jekyll-paginate-content
   - jekyll-sass-converter
+  - github-pages
 
 # Exclude my node related stuff
 exclude:
