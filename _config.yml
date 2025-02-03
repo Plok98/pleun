@@ -89,6 +89,7 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-paginate-content
+  - jekyll-sass-converter
 
 # Exclude my node related stuff
 exclude:
@@ -108,6 +109,3 @@ exclude:
     "gulpfile.js",
     "README.md",
   ]
-
-# Theme
-version: v3.1.2
