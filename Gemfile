@@ -12,3 +12,4 @@ gem "json"
 gem 'mercenary', '0.3.6'
 gem 'github-pages', group: :jekyll_plugins
 gem "jekflix"
+gem "jekyll-remote-theme"
