@@ -63,7 +63,6 @@ collections:
 paginate_path: "/page/:num/"
 show_get_theme_btn: true
 use_logo: false
-remote_theme: plok98/plokfolio.github.io
 
 # Content paginator
 paginate_content:
@@ -93,7 +92,6 @@ plugins:
   - jekyll-paginate-content
   - jekyll-sass-converter
   - github-pages
-  - jekyll-remote-theme
 
 # Exclude my node related stuff
 exclude:
