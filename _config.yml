@@ -46,7 +46,7 @@ show_modal_on_finish_post: true
 two_columns_layout: true
 
 # Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/plokfolio.github.io" # the subpath of your site, e.g. /blog
 url: "https://plokfolio.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
