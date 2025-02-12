@@ -16,13 +16,13 @@ tags:
 show_hero: true
 menu:
   - title: Home
-    url: "{{ site.baseurl }}/"
+    url: "/"
   - title: About
-    url: "{{ site.baseurl }}/about"
+    url: "/about"
   - title: Contact
-    url: "{{ site.baseurl }}/contact"
+    url: "/contact"
   - title: Feed
-    url: "{{ site.baseurl }}/feed.xml"
+    url: "/feed.xml"
 email: youremail@test.com
 # See: https://disqus.com/
 disqus_username: disqus_username
