@@ -1,15 +1,15 @@
 ---
 layout: page
 menu: false
-date: '2020-02-27 01:53:59'
-title: About
+date: "2025-04-01 01:53:59"
+title: Over mij
 description: Some description.
-permalink: /about/
+permalink: /over/
 ---
 
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thomas A. Anderson" width="200">
 
-# About
+# Over mij
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
