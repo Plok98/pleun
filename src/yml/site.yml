@@ -1,5 +1,5 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
+name: Pleun
+title: Portfolio - Pleun
 description: Jekflix is a template for Jekyll inspired by Netflix and made by
   Thiago Rossener.
 tags:
@@ -12,12 +12,16 @@ show_hero: true
 menu:
   - title: Home
     url: "{{ site.baseurl }}/"
-  - title: About
-    url: "{{ site.baseurl }}/about"
+  - title: Over
+    url: "{{ site.baseurl }}/over"
+  - title: Frontend
+    url: "{{ site.baseurl }}/frontend"
+  - title: Grafisch
+    url: "{{ site.baseurl }}/grafisch"
+  - title: Muziek
+    url: "{{ site.baseurl }}/muziek"
   - title: Contact
     url: "{{ site.baseurl }}/contact"
-  - title: Feed
-    url: "{{ site.baseurl }}/feed.xml"
 email: youremail@test.com
 # See: https://disqus.com/
 disqus_username: disqus_username

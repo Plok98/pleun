@@ -1,6 +1,6 @@
 # Site Settings
 theme: jekflix
-name: Jekflix
+name: Pleun
 title: blank
 first_name: Pleun
 middle_name:
@@ -17,12 +17,16 @@ show_hero: true
 menu:
   - title: Home
     url: "/"
-  - title: About
-    url: "/about"
+  - title: Over
+    url: "/over"
+  - title: Frontend
+    url: "/frontend"
+  - title: Grafisch
+    url: "/grafisch"
+  - title: Muziek
+    url: "/muziek"
   - title: Contact
     url: "/contact"
-  - title: Feed
-    url: "/feed.xml"
 email: youremail@test.com
 # See: https://disqus.com/
 disqus_username: disqus_username
@@ -62,7 +66,7 @@ collections:
     output: true
 paginate_path: "/page/:num/"
 show_get_theme_btn: true
-use_logo: false
+use_logo: true
 
 # Content paginator
 paginate_content:
