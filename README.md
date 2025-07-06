@@ -78,7 +78,7 @@ Create the file `/assets/css/styles.scss` and add:
 ---
 ---
 
-$themeColor: #ff0a16;
+$themeColor: #636B2F;
 $primaryDark: #141414;
 $accentDark: #ffffff;
 $lightGray: #f2f2f2;
