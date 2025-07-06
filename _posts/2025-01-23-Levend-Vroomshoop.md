@@ -1,8 +1,8 @@
 ---
 date: 2025-06-23
 layout: post
-title: TTX Campagne Pandemie
-subtitle: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+title: Levend Vroomshoop
+subtitle: "Stichting voor cultuur, historie en educatie"
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
