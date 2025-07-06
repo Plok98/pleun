@@ -12,7 +12,7 @@ category: Campagne
 tags:
   - welcome
   - blog
-author: mranderson
+author: palferink
 paginate: true
 ---
 

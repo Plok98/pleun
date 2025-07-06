@@ -88,11 +88,21 @@ footer {
 
 .main-page {
   footer {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
     background: $primaryDark;
     border-top: 1px solid lighten($primaryDark, 10%);
+    width: 100%;
+    margin: 0;
+    max-width: unset;
     
     p {
       color: $accentDark;
+    }
+
+    .footer-links {
+      display: flex;
     }
   }
 }
