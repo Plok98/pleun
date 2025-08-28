@@ -10,8 +10,6 @@ tags:
   - netlify
 show_hero: true
 menu:
-  - title: Home
-    url: "{{ site.baseurl }}/"
   - title: Over
     url: "{{ site.baseurl }}/over"
   - title: Frontend

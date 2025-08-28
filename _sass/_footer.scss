@@ -86,23 +86,23 @@ footer {
   }
 }
 
-.main-page {
-  footer {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    background: $primaryDark;
-    border-top: 1px solid lighten($primaryDark, 10%);
-    width: 100%;
-    margin: 0;
-    max-width: unset;
-    
-    p {
-      color: $accentDark;
-    }
+footer {
+  position: absolute;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background: $primaryDark;
+  border-top: 1px solid lighten($primaryDark, 10%);
+  width: 100%;
+  max-width: unset;
+  margin-bottom: 0;
+  bottom: 0;
+  
+  p {
+    color: $accentDark;
+  }
 
-    .footer-links {
-      display: flex;
-    }
+  .footer-links {
+    display: flex;
   }
 }
