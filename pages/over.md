@@ -7,13 +7,21 @@ description: Some description.
 permalink: /over/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thomas A. Anderson" width="200">
-
 # Over mij
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hallo! Ik ben Pleun Alferink, met een passie voor het maken van schone, gebruiksvriendelijke interfaces en interactieve ervaringen. Na mijn studie Content Design aan de HAN ben ik me vrijwel meteen gaan verdiepen in code, zodat ontwerpen niet alleen mooi worden maar ook daadwerkelijk werken.
+
+Ik geloof dat goede websites en apps verder gaan dan look & feel — het gaat om de balans tussen design, UX en technische realisatie. Of het nu gaat om een campagnewebsite, een interactieve game of een app-interface: ik werk graag mee van concept tot oplevering, waarbij ik zorg dat visueel ontwerp en functionaliteit elkaar versterken.
+
+In mijn werk:
+
+- Maak ik designs met oog voor detail én gebruikersgemak.
+- Zet ik ontwerp om naar HTML/CSS/JavaScript, met aandacht voor performance.
+- Werk ik samen in teams waarin design, content en techniek elkaar opzoeken en versterken.
+
+Buiten werk ben ik nieuwsgierig naar experimenten met animatie, spelconcepten en visuele storytelling — projecten zoals HUKU BOO zijn daar voorbeelden van. Ik ben altijd op zoek naar nieuwe manieren om de grens tussen design en technologie te verkennen.
+
+
+
+
+
