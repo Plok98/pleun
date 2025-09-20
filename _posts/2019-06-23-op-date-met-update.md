@@ -2,128 +2,121 @@
 date: 2019-06-23
 layout: post
 title: Op date met UpDate
-subtitle: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+subtitle: "Een campagneconcept dat Tinder naar een nieuw niveau tilt"
+description: "UpDate is een fictieve uitbreiding op Tinder waarmee gebruikers interactieve films kunnen bekijken en beleven. Voor deze campagne ontwierp ik posters, mockups en promotiemateriaal die het innovatieve karakter van het concept tot leven brengen."
 image: assets/img/post_media/update/Bierviltjes.jpg
 optimized_image: assets/img/post_media/update/Bierviltjes.jpg
 category: Campagne
 tags:
-  - welcome
-  - blog
+  - campagne
+  - branding
+  - conceptdesign
 author: palferink
 paginate: true
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. _Aenean eu leo quam._ Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+<img src="{{ site.baseurl }}/assets/img/post_media/update/Bierviltjes.jpg" alt="Bierviltjes UpDate campagne">
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+## Introductie
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Met **UpDate** wilden we een upgrade van Tinder voorstellen: een app waarmee je niet alleen matches vindt, maar ook samen interactieve films kunt kijken.  
+De campagne richtte zich op **jongvolwassenen** die op zoek zijn naar een nieuwe en speelse manier om contact te maken.
 
-## Inline HTML elements
+## Doel
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+Het doel van de campagne was:
 
-- **To bold text**, use `<strong>`.
-- _To italicize text_, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thomas A. Anderson</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+- **Innovatie zichtbaar maken** – laten zien dat UpDate meer is dan een datingapp.  
+- **Interactiviteit benadrukken** – de unieke feature van samen films beleven.  
+- **Aansluiten bij jong publiek** – een frisse, directe en speelse visuele stijl.  
 
-Most of these elements are styled by browsers with few modifications on our part.
+## Proces
 
-# Heading 1
+De campagne werd opgebouwd rond drie kernonderdelen:
 
-## Heading 2
+- Een **brandbook** met de visuele en inhoudelijke richtlijnen.  
+- **Outdoor- en printcampagnes** zoals posters, bierviltjes en abri’s.  
+- **Digitale mockups** die de app-ervaring tastbaar maakten.  
 
-### Heading 3
+## Resultaat
 
-#### Heading 4
+Het eindresultaat was een crossmediaal campagneconcept waarin **branding, print en digital** elkaar versterken.  
+De visuele stijl sloot naadloos aan bij de doelgroep en benadrukte het speelse, interactieve karakter van UpDate.
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+### Brandbook
 
---page-break--
+<div class="image-grid">
+  <figure>
+    <object data="{{ site.baseurl }}/assets/img/post_media/update/Brandbook-UpDate.pdf" type="application/pdf" width="100%" height="400px">
+      <p>Bekijk hier het <a href="{{ site.baseurl }}/assets/img/post_media/update/Brandbook-UpDate.pdf">Brandbook (PDF)</a>.</p>
+    </object>
+    <figcaption>Het Brandbook: logo, kleurgebruik en tone-of-voice van UpDate.</figcaption>
+  </figure>
+  <figure>
+    <object data="{{ site.baseurl }}/assets/img/post_media/update/DownloadButton.pdf" type="application/pdf" width="100%" height="150px">
+      <p>Bekijk hier de <a href="{{ site.baseurl }}/assets/img/post_media/update/DownloadButton.pdf">Download Button (PDF)</a>.</p>
+    </object>
+    <figcaption>Download-knop en UI-elementen in lijn met de visuele stijl.</figcaption>
+  </figure>
+</div>
 
-## Code
+### Outdoor
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+<div class="image-grid">
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/update/ABRI-mockup-Maikel.webp" alt="ABRI mockup UpDate campagne Maikel">
+    <figcaption>ABRI mockup: Maikel, speels in beeld gebracht als voorbeeld van een UpDate date.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/update/ABRI-mockup-Sanne.webp" alt="ABRI mockup UpDate campagne Sanne">
+    <figcaption>ABRI mockup: Sanne, laat de diversiteit van de campagne zien.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/update/Billboard.webp" alt="Billboard UpDate campagne">
+    <figcaption>Billboard: grootschalige zichtbaarheid in de stad.</figcaption>
+  </figure>
+</div>
 
-```js
-// Example can be run directly in your JavaScript console
+### Print
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+<div class="image-grid">
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/update/Bierviltjes.jpg" alt="Bierviltjes UpDate campagne">
+    <figcaption>Bierviltjes: laagdrempelig promotiemateriaal voor cafés en evenementen.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/update/Bierviltjes.webp" alt="Bierviltjes mockup UpDate campagne">
+    <figcaption>Mockup van de bierviltjes, in lijn met de branding.</figcaption>
+  </figure>
+</div>
 
-// Call the function
-adder(2, 6);
-// > 8
-```
+### Digitale mockups
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+<div class="image-grid">
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/update/Frist2.webp" alt="App mockup UpDate Frist2">
+    <figcaption>App mockup: voorbeeld van interactieve filmkeuze in UpDate.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/update/Mockup3.webp" alt="App mockup UpDate Mockup3">
+    <figcaption>Mockup 3: interface waarin matching en filmervaring samenkomen.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/update/trap-4.webp" alt="Outdoor mockup trap-4">
+    <figcaption>Trapvisual 4: creatieve toepassing van branding in openbare ruimte.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/update/trap-5.webp" alt="Outdoor mockup trap-5">
+    <figcaption>Trapvisual 5: campagne doorgetrokken naar straatniveau.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/update/Zijkant1.webp" alt="Bus mockup zijkant 1">
+    <figcaption>Busmockup (zijkant 1): bereik onderweg en in het straatbeeld.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/update/Zijkant2.webp" alt="Bus mockup zijkant 2">
+    <figcaption>Busmockup (zijkant 2): variatie in campagnebeelden voor bredere herkenbaarheid.</figcaption>
+  </figure>
+</div>
 
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-- Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-- Donec id elit non mi porta gravida at eget metus.
-- Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image") ![placeholder](https://placehold.it/400x200 "Medium example image") ![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+Door **outdoor, print en digitale middelen** samen te brengen, werd UpDate gepositioneerd als een innovatieve en speelse toevoeging aan de datingwereld.

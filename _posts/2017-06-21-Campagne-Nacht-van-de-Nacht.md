@@ -10,7 +10,6 @@ category: campagne
 tags:
   - campagne
   - grafisch ontwerp
-  - duurzaamheid
 author: palferink
 paginate: true
 ---

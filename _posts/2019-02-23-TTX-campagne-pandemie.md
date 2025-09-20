@@ -2,128 +2,59 @@
 date: 2019-02-23
 layout: post
 title: TTX Campagne Pandemie
-subtitle: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+subtitle: "Een futuristische campagne rond het fictieve virus tetrodotoxine"
+description: "Voor een fictieve pandemiecampagne ontwierp ik een merkidentiteit rondom 'TTX' – een denkbeeldige ziekte gebaseerd op het gif tetrodotoxine. Het project omvatte een brandbook en een serie posters die de angst, urgentie en futuristische toon van de campagne verbeelden."
 image: assets/img/post_media/pandemie_campagne/posters.png
 optimized_image: assets/img/post_media/pandemie_campagne/posters.png
 category: Campagne
 tags:
-  - welcome
-  - blog
+  - campagne
+  - brandbook
+  - posters
 author: palferink
 paginate: true
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. _Aenean eu leo quam._ Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+<img src="{{ site.baseurl }}/assets/img/post_media/pandemie_campagne/posters.png" alt="Posterontwerpen TTX pandemiecampagne">
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+## Introductie
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Wat als een onbekende stof een wereldwijde pandemie veroorzaakt?  
+De campagne **TTX** onderzocht dit scenario aan de hand van het neurotoxine *tetrodotoxine*, bekend van kogelvissen.  
+Het project had als doel de **angst en ongrijpbaarheid** van een pandemie te vertalen naar een consistente visuele stijl.
 
-## Inline HTML elements
+## Doel
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+De campagne richtte zich op drie pijlers:
 
-- **To bold text**, use `<strong>`.
-- _To italicize text_, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thomas A. Anderson</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+- **Waarschuwing** – direct communiceren dat TTX een ernstig gevaar vormt.  
+- **Urgentie** – visueel benadrukken dat snelle actie noodzakelijk is.  
+- **Futuristisch karakter** – een stijl die balanceert tussen klinisch en dystopisch.  
 
-Most of these elements are styled by browsers with few modifications on our part.
+## Proces
 
-# Heading 1
+Tijdens het traject werkte ik aan:
 
-## Heading 2
+- Een **brandbook** met richtlijnen voor logo, typografie, kleuren en tone of voice.  
+- Een reeks **posters** die angst en verwarring oproepen, en tegelijkertijd informatief zijn.  
+- Experimentele combinaties van **grafisch ontwerp** en **campagnetaal** geïnspireerd op noodcommunicatie.  
 
-### Heading 3
+## Resultaat
 
-#### Heading 4
+Het resultaat was een complete visuele identiteit die zowel dreigend als klinisch oogde.  
+De **TTX-pandemiecampagne** wist de spanning van een mogelijke uitbraak te verbeelden en diende als experiment in visuele communicatie rond gezondheidscrises.
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+<div class="image-grid">
+  <figure>
+    <object data="{{ site.baseurl }}/assets/img/post_media/pandemie_campagne/Brandbook.pdf" type="application/pdf" width="100%" height="400px">
+      <p>Bekijk hier het <a href="{{ site.baseurl }}/assets/img/post_media/pandemie_campagne/Brandbook.pdf">Brandbook (PDF)</a>.</p>
+    </object>
+    <figcaption>Het Brandbook met stijlgids, typografie, kleurgebruik en merktoepassingen van de TTX campagne.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/pandemie_campagne/posters.png" alt="TTX posters campagne">
+    <figcaption>De posterserie: futuristische en confronterende beelden die het gevoel van dreiging versterken.</figcaption>
+  </figure>
+</div>
 
---page-break--
-
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-- Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-- Donec id elit non mi porta gravida at eget metus.
-- Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image") ![placeholder](https://placehold.it/400x200 "Medium example image") ![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+Door de combinatie van **branding, posterdesign en visuele storytelling** werd de TTX-pandemiecampagne een krachtig concept dat de impact van pandemische communicatie onderzoekt.

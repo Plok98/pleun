@@ -1,129 +1,63 @@
 ---
 date: 2020-06-14
 layout: post
-title: BLINK de app voor docenten
-subtitle: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+title: BattleShips – mijn eerste scripted project
+subtitle: "De eerste keer dat design en code eindelijk samenkwamen"
+description: "Voor het eerst combineerde ik HTML, CSS en JavaScript in een zelfgemaakt project. Het resultaat was een eigen versie van het klassieke spel BattleShips – een mijlpaal in mijn leerproces."
 image: assets/img/post_media/battleship/BattleShips.png
 optimized_image: assets/img/post_media/battleship/BattleShips.png
 category: Applicatie
 tags:
-  - welcome
-  - blog
+  - HTML
+  - CSS
+  - JavaScript
+  - BattleShips
 author: palferink
 paginate: true
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. _Aenean eu leo quam._ Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+<img src="{{ site.baseurl }}/assets/img/post_media/battleship/BattleShips.png" alt="Screenshot BattleShips game in de browser">
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+## Introductie
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Iedereen herinnert zich het moment waarop design en code voor het eerst echt **samenklikten**.  
+Voor mij was dat bij dit project: een zelfgebouwde versie van het spel **BattleShips**, volledig geschreven in **HTML, CSS en JavaScript**.  
 
-## Inline HTML elements
+Het was de eerste keer dat ik de stap zette van **statisch design** naar een **interactieve ervaring**.
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+## Doel
 
-- **To bold text**, use `<strong>`.
-- _To italicize text_, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thomas A. Anderson</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+Mijn doel was om:
 
-Most of these elements are styled by browsers with few modifications on our part.
+- **Programmeren te leren door te doen**.  
+- **Visuele ontwerpen te vertalen naar code**.  
+- Een **interactief spel** te bouwen dat herkenbaar maar toch eigen aanvoelde.  
 
-# Heading 1
+## Proces
 
-## Heading 2
+Ik begon met het opzetten van de gridstructuur in HTML en CSS.  
+Daarna schreef ik JavaScript om de logica van het spel te regelen:
 
-### Heading 3
+- **Schepen plaatsen** op het speelveld.  
+- **Schoten controleren** en feedback geven (raak of mis).  
+- Een **winconditie** bepalen om het spel af te ronden.  
 
-#### Heading 4
+Het was een mix van **leren door fouten maken** en stap voor stap het spel tot leven brengen.
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+## Resultaat
 
---page-break--
+Het resultaat was een eenvoudige, maar speelse webapp waarin je tegen de computer BattleShips kunt spelen.  
+Voor mij was het vooral een bewijs dat ik **ideeën kon omzetten in interactieve code** – een basis die later leidde naar complexere projecten.
 
-## Code
+<div class="image-grid">
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/battleship/BattleShips.png" alt="BattleShips bord met schepen en schoten">
+    <figcaption>Het speelveld van BattleShips, opgebouwd met HTML en CSS, en aangestuurd door JavaScript.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/battleship/Kleurenschema.png" alt="BattleShips kleurenschema">
+    <figcaption>Het kleurenschema dat werd gebruikt om de interface overzichtelijk en aantrekkelijk te maken.</figcaption>
+  </figure>
+</div>
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-- Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-- Donec id elit non mi porta gravida at eget metus.
-- Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image") ![placeholder](https://placehold.it/400x200 "Medium example image") ![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+Met dit project ervoer ik voor het eerst hoe **design en development** elkaar versterken – en sindsdien ben ik niet meer gestopt met experimenteren.

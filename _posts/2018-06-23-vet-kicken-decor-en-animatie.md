@@ -2,10 +2,8 @@
 date: 2018-06-23
 layout: post
 title: Vet Kicken - decor en animatie
-subtitle: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+subtitle: "Een nostalgische livestream van een 90’s gameshow"
+description: "Voor de livestream van de gameshow 'Vet Kicken' ontwierp ik decor en animaties die het gevoel van de jaren 90 tot leven brachten. Van kleurrijke visuals tot dynamische schermgraphics."
 image: assets/img/post_media/vet_kicken/group_photo.png
 optimized_image: assets/img/post_media/vet_kicken/group_photo1.png
 category: live stream
@@ -16,116 +14,113 @@ author: palferink
 paginate: true
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. _Aenean eu leo quam._ Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+<img src="{{ site.baseurl }}/assets/img/post_media/vet_kicken/group_photo.png" alt="Groepsfoto Vet Kicken livestream">
 
-<iframe src="https://www.youtube.com/watch?v=LUJPSQULlOY&ab_channel=vetkicken" title="vetkicken"></iframe>
+## Introductie
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+In de zomer van 2018 werd een **speciale livestream** opgezet rondom de nostalgische 90’s gameshow *Vet Kicken*.  
+Ik kreeg de kans om het **decor** en de **animaties** te verzorgen die tijdens de uitzending een centrale rol speelden.  
+Het doel: de unieke sfeer van de jaren 90 opnieuw laten beleven in een modern digitaal jasje.
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+## Doel
 
-## Inline HTML elements
+De visuele stijl moest:
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+- **Herkenbare 90’s elementen** bevatten zoals felle kleuren en dynamische vormen.  
+- **Flexibel inzetbaar** zijn, zowel in het decor als in de animaties.  
+- **Interactief en energiek** overkomen, passend bij een gameshow.  
 
-- **To bold text**, use `<strong>`.
-- _To italicize text_, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thomas A. Anderson</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+## Proces
 
-Most of these elements are styled by browsers with few modifications on our part.
+Tijdens de voorbereiding werkte ik samen met het productieteam om:
 
-# Heading 1
+- **Decorvisuals** te ontwikkelen die herkenning en sfeer brachten.  
+- **Animaties** te ontwerpen die in de livestream konden worden gebruikt.  
+- **Technische tests** uit te voeren om de graphics vloeiend te laten integreren met de uitzending.  
 
-## Heading 2
+## Resultaat
 
-### Heading 3
+De livestream bracht honderden kijkers terug naar de sfeer van de 90’s.  
+Dankzij de combinatie van decor en animatie ontstond een **visuele beleving** die nostalgie opriep én geschikt was voor een modern online format.
 
-#### Heading 4
+### Decor
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+<div class="image-grid">
+  <figure>
+    <video controls>
+      <source src="{{ site.baseurl }}/assets/img/post_media/vet_kicken/decor_video.mp4" type="video/mp4">
+      Je browser ondersteunt geen video.
+    </video>
+    <figcaption>Een fragment uit de decorvideo met animaties die live in de show gebruikt werden.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/vet_kicken/decor1.jpg" alt="Decor voorbeeld Vet Kicken 1">
+    <figcaption>Decorconcept 1: geometrische vormen en felle kleuren in jaren 90 stijl.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/vet_kicken/decor2.jpg" alt="Decor voorbeeld Vet Kicken 2">
+    <figcaption>Decorconcept 2: speelse patronen en contrasterende kleurvlakken.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/vet_kicken/decor3.jpg" alt="Decor voorbeeld Vet Kicken 3">
+    <figcaption>Decorconcept 3: een meer minimalistische invulling met neon-accenten.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/vet_kicken/decor4.jpg" alt="Decor voorbeeld Vet Kicken 4">
+    <figcaption>Decorconcept 4: dynamische achtergrondillustratie gebruikt in de livestream.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/vet_kicken/decor5.jpg" alt="Decor voorbeeld Vet Kicken 5">
+    <figcaption>Decorconcept 5: uitgewerkt tot finale visuals voor de show.</figcaption>
+  </figure>
+</div>
 
---page-break--
+### Characters
 
-## Code
+<div class="image-grid">
+  <figure>
+    <video controls>
+      <source src="{{ site.baseurl }}/assets/img/post_media/vet_kicken/character_animation.mp4" type="video/mp4">
+      Je browser ondersteunt geen video.
+    </video>
+    <figcaption>De karakteranimatie die tijdens de show als speels element in beeld verscheen.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/vet_kicken/character_sketch1.jpg" alt="Character sketch 1">
+    <figcaption>Karakter schets 1: vroege exploratie van de stijl en houding.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/vet_kicken/character_sketch2.jpg" alt="Character sketch 2">
+    <figcaption>Karakter schets 2: experiment met expressie en accessoires.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/vet_kicken/character_sketch3.jpg" alt="Character sketch 3">
+    <figcaption>Karakter schets 3: verdere verfijning richting het uiteindelijke ontwerp.</figcaption>
+  </figure>
+</div>
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+### Behind the Scenes
 
-```js
-// Example can be run directly in your JavaScript console
+<div class="image-grid">
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/vet_kicken/group_photo1.png" alt="Groepsfoto Vet Kicken 1">
+    <figcaption>Groepsfoto 1: het team tijdens de voorbereidingen van de livestream.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/vet_kicken/group_photo2.jpg" alt="Groepsfoto Vet Kicken 2">
+    <figcaption>Groepsfoto 2: behind the scenes tijdens de uitzending zelf.</figcaption>
+  </figure>
+  <figure>
+    <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/LUJPSQULlOY"
+      title="Vet Kicken livestream"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen>
+    </iframe>
+    <figcaption>De volledige livestream van *Vet Kicken*, terug te kijken via YouTube.</figcaption>
+  </figure>
+</div>
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+Door het combineren van **decor, animatie en live interactie** kreeg de 90’s gameshow een frisse comeback, passend in een moderne streamingomgeving.
 
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-- Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-- Donec id elit non mi porta gravida at eget metus.
-- Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image") ![placeholder](https://placehold.it/400x200 "Medium example image") ![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
