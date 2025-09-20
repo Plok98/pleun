@@ -2,128 +2,77 @@
 date: 2017-01-13
 layout: post
 title: BLINK de app voor docenten
-subtitle: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+subtitle: "Een digitale assistent voor lesgeven en klasoverzicht"
+description: "Ontwerp en ontwikkeling van BLINK: een intuïtieve app die docenten helpt om lessen efficiënter in te richten en de voortgang van leerlingen te volgen; met het oog op maatwerk."
 image: assets/img/post_media/blink/monster_group.png
 optimized_image: assets/img/post_media/blink/monster_group.png
 category: Applicatie
 tags:
-  - welcome
-  - blog
+  - experience design
+  - Adobe XD
+  - application
 author: palferink
 paginate: true
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. _Aenean eu leo quam._ Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+<img src="{{ site.baseurl }}/assets/img/post_media/blink/monster_group.png" alt="Interface van BLINK app">
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+## Introductie
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+In het onderwijs wordt steeds meer gebruikgemaakt van digitale hulpmiddelen.  
+Met **BLINK** ontwierp en ontwikkelde ik een applicatie speciaal voor docenten, gericht op het **plannen van lessen** en het **monitoren van leerlingen** op een overzichtelijke manier.  
 
-## Inline HTML elements
+Het idee ontstond vanuit gesprekken met docenten die aangaven dat bestaande software vaak omslachtig of niet gebruiksvriendelijk genoeg was.
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+## Doel
 
-- **To bold text**, use `<strong>`.
-- _To italicize text_, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thomas A. Anderson</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+Het doel van BLINK was om een **toegankelijke tool** te bouwen die aansluit bij de dagelijkse praktijk van docenten.  
+De focus lag op drie kernpunten:
 
-Most of these elements are styled by browsers with few modifications on our part.
+- **Gebruiksvriendelijkheid** – intuïtieve navigatie zonder overbodige functies.  
+- **Efficiëntie** – snel lessen en opdrachten kunnen plannen.  
+- **Overzicht** – in één oogopslag zien hoe de klas ervoor staat.  
 
-# Heading 1
+## Proces
 
-## Heading 2
+Tijdens de ontwikkeling doorliep ik verschillende stappen:
 
-### Heading 3
+- **Onderzoek & interviews** – in kaart brengen van de grootste pijnpunten van docenten.  
+- **Wireframes & prototyping** – schetsen van een minimalistische, duidelijke interface.  
+- **Visueel ontwerp** – met een frisse en speelse stijl, zodat de app niet te zakelijk of saai oogt.  
 
-#### Heading 4
+Het resultaat was een gebruikerstestbare app die direct door docenten werd uitgeprobeerd en aangescherpt op basis van feedback.
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+## Resultaat
 
---page-break--
+BLINK leverde een **praktisch hulpmiddel** op dat docenten daadwerkelijk ondersteunt in hun dagelijks werk.  
+De visuele stijl, met kleurrijke elementen en herkenbare iconen, maakte de app niet alleen functioneel maar ook aantrekkelijk.  
 
-## Code
+<div class="image-grid">
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/blink/homescreen.png" alt="Startscherm BLINK app">
+    <figcaption>Het startscherm met een helder overzicht van geplande lessen.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/blink/explanation_screen.png" alt="Uitlegscherm BLINK app">
+    <figcaption>Een introductiescherm dat nieuwe gebruikers stap voor stap door de functies leidt.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/blink/page_example1.png" alt="Lessenoverzicht BLINK app">
+    <figcaption>Het lessenoverzicht waarin opdrachten eenvoudig ingepland en aangepast kunnen worden.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/blink/page_example2.png" alt="Voortgang leerlingen BLINK app">
+    <figcaption>Een detailweergave van leerlingresultaten, zodat docenten direct inzicht krijgen in voortgang.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/blink/devil.png" alt="Mascotte illustratie BLINK app">
+    <figcaption>Een speelse illustratie (mascotte) die het ontwerp luchtig en toegankelijk maakt.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/blink/XD.png" alt="Adobe XD ontwerp BLINK app">
+    <figcaption>Een kijkje in het ontwerpproces: de wireframes en prototypes gemaakt in Adobe XD.</figcaption>
+  </figure>
+</div>
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-- Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-- Donec id elit non mi porta gravida at eget metus.
-- Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image") ![placeholder](https://placehold.it/400x200 "Medium example image") ![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+Door de combinatie van **functionaliteit** en **gebruiksvriendelijk ontwerp** werd BLINK een waardevolle toevoeging voor docenten die meer grip willen krijgen op hun lespraktijk.

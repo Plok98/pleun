@@ -71,7 +71,6 @@
     font-size: rem(17px);
     line-height: rem(30px);
     letter-spacing: 0.025rem;
-    padding: 0 rem(20px);
     margin: rem(20px) auto 0;
 
     @include media(">=sm") {
@@ -711,3 +710,25 @@
     }
   }
 }
+
+// Own added css:
+
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1.5rem;
+}
+.image-grid figure {
+  margin: 0;
+  text-align: center;
+}
+.image-grid img {
+  max-width: 100%;
+  border-radius: 8px;
+}
+.image-grid figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: #555;
+}
+
