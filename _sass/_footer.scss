@@ -127,7 +127,7 @@ footer {
   }
   &:not(.main-page) {
     footer {
-      position: absolute;
+      position: sticky;
       display: flex;
       justify-content: space-evenly;
       align-items: center;

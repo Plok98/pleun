@@ -1,129 +1,57 @@
 ---
 date: 2024-07-11
 layout: post
-title: Levend Vroomshoop
-subtitle: "Stichting voor cultuur, historie en educatie"
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+title: Puzzeltocht Levend Vroomshoop
+subtitle: "Grafisch ontwerp in InDesign voor cultuur & historie"
+description: "Een kijkje achter de schermen van mijn designproces voor de puzzeltocht van Stichting Levend Vroomshoop."
 image: assets/img/post_media/levend_vroomshoop/header.png
 optimized_image: assets/img/post_media/levend_vroomshoop/header.png
-category: Campagne
+category: Projecten
 tags:
-  - welcome
-  - blog
+  - grafisch ontwerp
+  - indesign
+  - levend vroomshoop
+  - puzzeltocht
 author: palferink
-paginate: true
+paginate: false
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. _Aenean eu leo quam._ Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+<img src="{{ site.baseurl }}/assets/img/post_media/levend_vroomshoop/header.png" alt="Voorkant flyer puzzeltocht Levend Vroomshoop">
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+## Introductie
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+De puzzeltocht is opgezet om middelbare scholieren in Vroomshoop meer te leren over het verleden van hun eigen dorp.  
+Een kennis binnen de organisatie *Levend Vroomshoop* vroeg mij persoonlijk om een flyer en gebundeld boekje te ontwerpen waarin de vragen van de tocht overzichtelijk gepresenteerd konden worden.
 
-## Inline HTML elements
+## Doel
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+Mijn doel was om de huisstijl en kleuren van *Levend Vroomshoop* te verwerken in combinatie met fotografie.  
+Ik wilde hiermee een ontwerp maken dat enerzijds een **historisch karakter** heeft, maar anderzijds ook **modern en toegankelijk** oogt voor jongeren.
 
-- **To bold text**, use `<strong>`.
-- _To italicize text_, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thomas A. Anderson</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+## Proces
 
-Most of these elements are styled by browsers with few modifications on our part.
+Tijdens het ontwerptraject heb ik verschillende onderdelen uitgewerkt:
 
-# Heading 1
+- **Voorzijde flyer** – met een opvallende foto als blikvanger.  
+- **Binnenwerk boekje** – overzichtelijke opstelling van de vragen en opdrachten.  
+- **Antwoordformulier** – een apart vel waarop deelnemers hun eindantwoord konden noteren.  
 
-## Heading 2
+Door dit te combineren in één consistente stijl, kreeg de puzzeltocht een herkenbare en professionele uitstraling.
 
-### Heading 3
+## Resultaat
 
-#### Heading 4
+Het uiteindelijke ontwerp leverde een flyer en vragenboekje op die aansloten bij zowel de identiteit van *Levend Vroomshoop* als de doelgroep scholieren.  
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+<figure>
+  <object data="{{ site.baseurl }}/assets/img/post_media/levend_vroomshoop/petro_inleveren.pdf" width="500px" height="250px" type='application/pdf'>
+  </object>
+  <figcaption>Het binnenwerk van het boekje, waarin de vragen overzichtelijk zijn vormgegeven.</figcaption>
+</figure>
 
---page-break--
+<figure>
+  <object data="{{ site.baseurl }}/assets/img/post_media/levend_vroomshoop/petro_lesbrief.pdf" width="500px" height="250px" type='application/pdf'>
+  </object>
+  <figcaption>Het aparte formulier waarop deelnemers hun antwoorden konden invullen.</figcaption>
+</figure>
 
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-- Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-- Donec id elit non mi porta gravida at eget metus.
-- Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image") ![placeholder](https://placehold.it/400x200 "Medium example image") ![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+Met het gebruik van kleur, beeld en typografie werd een balans gevonden tussen **geschiedenis** en **actualiteit**, waardoor de puzzeltocht niet alleen leerzaam maar ook aantrekkelijk werd gepresenteerd.

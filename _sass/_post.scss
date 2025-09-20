@@ -21,6 +21,7 @@
 
   .post-content {
     padding-bottom: rem(10px);
+    margin: 20px 0;
 
     @include media(">=sm") {
       flex-basis: 70%;
@@ -39,7 +40,6 @@
 
   img {
     max-width: 100%;
-    margin: rem(0px) auto;
     display: block;
     padding: 10px 0;
   }
@@ -52,7 +52,7 @@
   img + em {
     display: block;
     color: darken($lightGray, 30%);
-    text-align: center;
+    text-align: left;
     @include mainFont(300);
   }
 
