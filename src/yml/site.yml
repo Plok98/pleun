@@ -12,10 +12,10 @@ show_hero: true
 menu:
   - title: Over
     url: "{{ site.baseurl }}/over"
-  - title: Frontend
-    url: "{{ site.baseurl }}/frontend"
   - title: Grafisch
     url: "{{ site.baseurl }}/grafisch"
+  - title: Frontend
+    url: "{{ site.baseurl }}/frontend"
   - title: Muziek
     url: "{{ site.baseurl }}/muziek"
   - title: Contact

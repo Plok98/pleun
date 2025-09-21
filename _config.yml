@@ -17,10 +17,10 @@ show_hero: true
 menu:
   - title: Over
     url: "/over"
-  - title: Frontend
-    url: "/frontend"
   - title: Grafisch
     url: "/grafisch"
+  - title: Frontend
+    url: "/frontend"
   - title: Muziek
     url: "/muziek"
   - title: Contact
