@@ -3,7 +3,7 @@ layout: page
 menu: false
 date: "2025-04-01 01:53:59"
 title: Over mij
-description: Some description.
+description: Ik geloof dat goede websites en apps verder gaan dan look & feel — het gaat om de balans tussen design, UX en technische realisatie.
 permalink: /over/
 ---
 
