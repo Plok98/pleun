@@ -9,11 +9,30 @@ permalink: /frontend/
 
 # ... naar implementatie.
 
-Mijn muzikale avontuur begon ~ hoe kan het ook anders ~ met de blokfluit. Maar al snel maakte ik de stap naar de piano. Sinds 2006 volg ik lessen bij Kaliber in Almelo, waar ik vooral ontdekte hoeveel plezier muziek kan geven. Mijn docent zorgde ervoor dat ik gemotiveerd bleef: geen eindeloze toonladders, maar liedjes die leuk waren om te spelen. Want eerlijk, welk kind wil er nou toonladders oefenen?
+Mijn focus binnen frontend-ontwikkeling ligt vooral op **Vue.js** als framework.  
+Ik vind Vue sterk omdat het overzichtelijk blijft, ook in grotere projecten, en het combineert goed met herbruikbare componenten.  
 
-Het bleef niet bij een paar jaar lessen. Ik deed mijn A-examen en op de middelbare school kreeg ik de smaak echt te pakken. Dat enthousiasme bracht me verder naar het B- en C-examen. Jaren later, op mijn 26e, besloot ik ook nog het D-examen te halen – gewoon om de hele reis compleet te maken en alle technieken en theorie een keer in de vingers te hebben.
+Daarnaast gebruik ik **Bootstrap** om snel een stevige basis voor de vormgeving neer te zetten.  
+Samen zorgen Vue en Bootstrap voor een efficiënte workflow waarin ik zowel flexibiliteit als consistentie behoud.  
 
-Inmiddels speel ik niet alleen voor mezelf, maar ook samen met anderen. Momenteel spring ik regelmatig in als pianist bij Popkoor Wiezz in Wierden – een geweldige plek om samen muziek te maken en mijn ontdekkingsreis voort te zetten.
+Her en der werk ik ook aan **Laravel-projecten**, waarbij ik steeds handiger word met **PHP**.  
+Binnen Laravel gebruik ik regelmatig **Twill** als CMS, wat een krachtige en gebruiksvriendelijke manier biedt om content te beheren.  
+Deze combinatie maakt dat ik zowel de frontend als de backend beter begrijp en kan verbinden.  
+
+---
+
+## Frontend gerelateerde posts
+
+<ul>
+  {% for post in site.posts %}
+    {% if post.tags contains "frontend" %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <small>— {{ post.date | date: "%d-%m-%Y" }}</small>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
 
 
 

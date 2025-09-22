@@ -9,12 +9,32 @@ permalink: /grafisch/
 
 # Van ontwerp...
 
-Mijn muzikale avontuur begon ~ hoe kan het ook anders ~ met de blokfluit. Maar al snel maakte ik de stap naar de piano. Sinds 2006 volg ik lessen bij Kaliber in Almelo, waar ik vooral ontdekte hoeveel plezier muziek kan geven. Mijn docent zorgde ervoor dat ik gemotiveerd bleef: geen eindeloze toonladders, maar liedjes die leuk waren om te spelen. Want eerlijk, welk kind wil er nou toonladders oefenen?
 
-Het bleef niet bij een paar jaar lessen. Ik deed mijn A-examen en op de middelbare school kreeg ik de smaak echt te pakken. Dat enthousiasme bracht me verder naar het B- en C-examen. Jaren later, op mijn 26e, besloot ik ook nog het D-examen te halen – gewoon om de hele reis compleet te maken en alle technieken en theorie een keer in de vingers te hebben.
+Ik heb **Communicatie en Multimedia Design** gestudeerd aan de **HAN in Arnhem**.  
+Tijdens deze studie heb ik geleerd te werken met het volledige pakket aan **Adobe-programma’s** – van **Photoshop** tot **Flash** en zelfs **Dreamweaver**.  
 
-Inmiddels speel ik niet alleen voor mezelf, maar ook samen met anderen. Momenteel spring ik regelmatig in als pianist bij Popkoor Wiezz in Wierden – een geweldige plek om samen muziek te maken en mijn ontdekkingsreis voort te zetten.
+Intussen is mijn gereedschapskist uitgebreid met moderne tools zoals **Figma**, die ik vaak inzet bij het ontwerpen van digitale interfaces en prototypes.  
 
+Mijn grootste enthousiasme ligt echter bij **Adobe After Effects** en **Illustrator**.  
+Met After Effects kan ik visuele verhalen tot leven brengen met animatie en motion design, terwijl Illustrator mij de creatieve vrijheid geeft voor strak en veelzijdig vectorwerk.  
+
+Natuurlijk combineer ik vaak meerdere programma’s om het beste resultaat te behalen bij wat ik ontwerp.  
+Door de juiste mix te gebruiken, kan ik ideeën zowel **visueel krachtig** als **functioneel toepasbaar** maken.  
+
+---
+
+## Grafisch gerelaterede posts
+
+<ul>
+  {% for post in site.posts %}
+    {% if  post.tags contains "grafisch" %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <small>— {{ post.date | date: "%d-%m-%Y" }}</small>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
 
 
 
