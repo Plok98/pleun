@@ -8,7 +8,7 @@ image: assets/img/post_media/levend_vroomshoop/header.png
 optimized_image: assets/img/post_media/levend_vroomshoop/header.png
 category: Projecten
 tags:
-  - grafisch ontwerp
+  - grafisch
   - indesign
   - levend vroomshoop
   - puzzeltocht

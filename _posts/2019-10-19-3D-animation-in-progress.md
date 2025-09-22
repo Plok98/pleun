@@ -10,6 +10,7 @@ category: 3D
 tags:
   - 3D
   - Animation
+  - grafisch
 author: palferink
 paginate: true
 ---

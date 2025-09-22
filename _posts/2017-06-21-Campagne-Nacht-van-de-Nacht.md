@@ -9,7 +9,7 @@ optimized_image: assets/img/post_media/nmu/header.png
 category: campagne
 tags:
   - campagne
-  - grafisch ontwerp
+  - grafisch
 author: palferink
 paginate: true
 ---

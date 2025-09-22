@@ -12,6 +12,7 @@ tags:
   - CSS
   - JavaScript
   - BattleShips
+  - frontend
 author: palferink
 paginate: true
 ---

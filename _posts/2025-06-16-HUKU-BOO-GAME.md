@@ -11,6 +11,8 @@ tags:
   - game
   - platformer
   - design
+  - grafisch
+  - frontend
 author: palferink
 paginate: true
 ---

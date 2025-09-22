@@ -10,6 +10,7 @@ category: live stream
 tags:
   - decor
   - animatie
+  - grafisch
 author: palferink
 paginate: true
 ---
