@@ -21,6 +21,22 @@ footer {
     margin-top: rem(100px);
   }
 
+  @include media("<=sm") {
+    flex-direction: column;
+
+    p {
+      margin-bottom: 0;
+    }
+
+    .footer-links {
+      margin-top: 0;
+    }
+
+    div {
+      display: none;
+    }
+  }
+
   p {
     text-decoration: none;
     color: $primaryDark;
