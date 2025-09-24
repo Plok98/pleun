@@ -22,6 +22,7 @@ Inmiddels speel ik niet alleen voor mezelf, maar ook samen met anderen. Momentee
 - Shostakovich Fugue No. 7 in A major
 - Beethoven 6 variations on "Ich denke dein" - piano four hands
 - George Gershwin - Summertime
+- Chopin - 4 Mazurkas. Op. 17. No. 2. in E Minor
 
 
 

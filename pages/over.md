@@ -9,7 +9,7 @@ permalink: /over/
 
 # Over mij
 
-Hallo! Ik ben Pleun Alferink, met een passie voor het maken van schone, gebruiksvriendelijke interfaces en interactieve ervaringen. Na mijn studie Content Design aan de HAN ben ik me vrijwel meteen gaan verdiepen in code, zodat ontwerpen niet alleen mooi worden maar ook daadwerkelijk werken.
+Hallo! Ik ben Pleun Alferink, een enthousiaste creatieveling die liever niet stil zit. Van jongs af aan vind ik het al leuk om dingen te bedenken, uitproberen, maken. Tijdens mijn studie Content Design aan de HAN ontdekte ik hoe ik die nieuwsgierigheid kon combineren met vormgeving aan de hand van online tools. Al snel raakte ik ook geïnteresseerd in code, omdat ik niet alleen wilde ontwerpen, maar mijn ideeën ook echt tot leven wilde brengen in gebruiksvriendelijke interfaces en interactieve ervaringen.
 
 Ik geloof dat goede websites en apps verder gaan dan look & feel — het gaat om de balans tussen design, UX en technische realisatie. Of het nu gaat om een campagnewebsite, een interactieve game of een app-interface: ik werk graag mee van concept tot oplevering, waarbij ik zorg dat visueel ontwerp en functionaliteit elkaar versterken.
 

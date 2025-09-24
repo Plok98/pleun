@@ -46,7 +46,7 @@ Het resultaat was een gebruikerstestbare app die direct door docenten werd uitge
 
 ## Resultaat
 
-BLINK leverde een **praktisch hulpmiddel** op dat docenten daadwerkelijk ondersteunt in hun dagelijks werk.  
+BLINK leverde een **praktisch hulpmiddel** op dat docenten zou kunnen ondersteunen in hun dagelijks werk.  
 De visuele stijl, met kleurrijke elementen en herkenbare iconen, maakte de app niet alleen functioneel maar ook aantrekkelijk.  
 
 <div class="image-grid">

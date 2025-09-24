@@ -42,16 +42,19 @@ Door dit te combineren in één consistente stijl, kreeg de puzzeltocht een herk
 
 Het uiteindelijke ontwerp leverde een flyer en vragenboekje op die aansloten bij zowel de identiteit van *Levend Vroomshoop* als de doelgroep scholieren.  
 
-<figure>
-  <object data="{{ site.baseurl }}/assets/img/post_media/levend_vroomshoop/petro_inleveren.pdf" width="500px" height="250px" type='application/pdf'>
-  </object>
-  <figcaption>Het binnenwerk van het boekje, waarin de vragen overzichtelijk zijn vormgegeven.</figcaption>
-</figure>
-
-<figure>
-  <object data="{{ site.baseurl }}/assets/img/post_media/levend_vroomshoop/petro_lesbrief.pdf" width="500px" height="250px" type='application/pdf'>
-  </object>
-  <figcaption>Het aparte formulier waarop deelnemers hun antwoorden konden invullen.</figcaption>
-</figure>
+<div class="image-grid">
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/inleveren.png" alt="Inleveren – overzicht of instructies">
+    <figcaption>Inleverinstructies voor de opdracht.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/lesbrief(1).png" alt="Lesbrief – pagina 1">
+    <figcaption>Eerste pagina van de lesbrief.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/img/post_media/lesbrief(2).png" alt="Lesbrief – pagina 2">
+    <figcaption>Tweede pagina van de lesbrief.</figcaption>
+  </figure>
+</div>
 
 Met het gebruik van kleur, beeld en typografie werd een balans gevonden tussen **geschiedenis** en **actualiteit**, waardoor de puzzeltocht niet alleen leerzaam maar ook aantrekkelijk werd gepresenteerd.

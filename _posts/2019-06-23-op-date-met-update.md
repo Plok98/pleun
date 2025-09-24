@@ -48,16 +48,27 @@ De visuele stijl sloot naadloos aan bij de doelgroep en benadrukte het speelse, 
 
 <div class="image-grid">
   <figure>
-    <object data="{{ site.baseurl }}/assets/img/post_media/update/Brandbook-UpDate.pdf" type="application/pdf" width="100%" height="400px">
-      <p>Bekijk hier het <a href="{{ site.baseurl }}/assets/img/post_media/update/Brandbook-UpDate.pdf">Brandbook (PDF)</a>.</p>
+    <object 
+      data="{{ site.baseurl }}/assets/img/post_media/update/Brandbook-UpDate.pdf#toolbar=0&navpanes=0&scrollbar=0" 
+      type="application/pdf" 
+      width="100%" 
+      height="400px"
+      title="Brandbook UpDate"
+    >
+      <p>
+        Het Brandbook is niet zichtbaar in je browser. 
+        <a href="{{ site.baseurl }}/assets/img/post_media/update/Brandbook-UpDate.pdf">Download het hier</a>.
+      </p>
+      <figcaption>Het Brandbook: logo, kleurgebruik en tone-of-voice van UpDate.</figcaption>
     </object>
-    <figcaption>Het Brandbook: logo, kleurgebruik en tone-of-voice van UpDate.</figcaption>
   </figure>
+
+
   <figure>
-    <object data="{{ site.baseurl }}/assets/img/post_media/update/DownloadButton.pdf" type="application/pdf" width="100%" height="150px">
-      <p>Bekijk hier de <a href="{{ site.baseurl }}/assets/img/post_media/update/DownloadButton.pdf">Download Button (PDF)</a>.</p>
-    </object>
-    <figcaption>Download-knop en UI-elementen in lijn met de visuele stijl.</figcaption>
+    <figure>
+      <img src="{{ site.baseurl }}/assets/img/post_media/update/DownloadButton.webp" alt="Advertentie met downloadknop">
+      <figcaption>Download-knop en UI-elementen in lijn met de visuele stijl.</figcaption>
+    </figure>
   </figure>
 </div>
 
@@ -95,7 +106,7 @@ De visuele stijl sloot naadloos aan bij de doelgroep en benadrukte het speelse, 
 
 <div class="image-grid">
   <figure>
-    <img src="{{ site.baseurl }}/assets/img/post_media/update/Frist2.webp" alt="App mockup UpDate Frist2">
+    <img src="{{ site.baseurl }}/assets/img/post_media/update/First2.webp" alt="App mockup UpDate First2">
     <figcaption>App mockup: voorbeeld van interactieve filmkeuze in UpDate.</figcaption>
   </figure>
   <figure>

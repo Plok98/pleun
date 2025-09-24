@@ -47,11 +47,21 @@ De **TTX-pandemiecampagne** wist de spanning van een mogelijke uitbraak te verbe
 
 <div class="image-grid">
   <figure>
-    <object data="{{ site.baseurl }}/assets/img/post_media/pandemie_campagne/Brandbook.pdf" type="application/pdf" width="100%" height="400px">
-      <p>Bekijk hier het <a href="{{ site.baseurl }}/assets/img/post_media/pandemie_campagne/Brandbook.pdf">Brandbook (PDF)</a>.</p>
+    <object 
+      data="{{ site.baseurl }}/assets/img/post_media/pandemie_campagne/Brandbook.pdf#toolbar=0&navpanes=0&scrollbar=0" 
+      type="application/pdf" 
+      width="100%" 
+      height="400px"
+      title="Brandbook Pandemie Campagne"
+    >
+      <p>
+        Het Brandbook is niet zichtbaar in je browser. 
+        <a href="{{ site.baseurl }}/assets/img/post_media/pandemie_campagne/Brandbook.pdf">Download het hier</a>.
+      </p>
+      <figcaption>Het Brandbook: logo, kleurgebruik en tone-of-voice van de campagne.</figcaption>
     </object>
-    <figcaption>Het Brandbook met stijlgids, typografie, kleurgebruik en merktoepassingen van de TTX campagne.</figcaption>
   </figure>
+
   <figure>
     <img src="{{ site.baseurl }}/assets/img/post_media/pandemie_campagne/posters.png" alt="TTX posters campagne">
     <figcaption>De posterserie: futuristische en confronterende beelden die het gevoel van dreiging versterken.</figcaption>

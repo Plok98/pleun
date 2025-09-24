@@ -38,14 +38,20 @@
                 <aside class="see-also">
                     <h2>{{ site.translations.text.see_also | default: "Zie ook" }}</h2>
                     <ul>
-                        {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
+                        {% assign next_posts = site.posts 
+                            | where_exp:"post","post.is_generated != true" 
+                            | where_exp:"post","post.path != page.path" %}
+
                         {% assign shuffled_array = next_posts | shuffle %}
+
                         {% for post in shuffled_array limit:3 %}
+                            {% if post.tags and post.tags.size > 0 %}
                             <li>
                                 <a href="{{ post.url | prepend: site.baseurl }}">
-                                    <h3>{{ post.title }}</h3>
+                                <h3>{{ post.title }}</h3>
                                 </a>
                             </li>
+                            {% endif %}
                         {% endfor %}
                     </ul>
                 </aside>
@@ -54,10 +60,10 @@
         </section>
 
         <!-- Add time bar only for pages without pagination -->
-        {% if paginator.activated == nil and site.show_time_bar == true %}
+        <!-- {% if paginator.activated == nil and site.show_time_bar == true %}
             {% include time-bar.html %}
             {% include recommendation.html %}
-        {% endif %}
+        {% endif %} -->
 
         <!-- Show modal if the post is the last one -->
         {% if paginator.is_last and site.show_modal_on_finish_post %}
