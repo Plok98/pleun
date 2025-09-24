@@ -48,7 +48,7 @@ two_columns_layout: true
 url: "https://plok98.github.io" # the base hostname & protocol for your site
 baseurl: "/plokfolio.github.io" # the subpath of your site, e.g. /blog
 google_analytics: "UA-XXXXXXXX-X"
-language: "en"
+language: "nl"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
