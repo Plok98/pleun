@@ -19,14 +19,14 @@ paginate: true
 ## Introductie
 
 De **Nacht van de Nacht** is een jaarlijks terugkerend evenement van de Milieufederaties, met als doel mensen bewust te maken van **lichtvervuiling** en het belang van een donkere nacht.  
-Voor de editie van 2017 werd ik gevraagd door de [Milieufederatie Utrecht](https://www.milieufederatieutrecht.nl) om ondersteunend communicatiemateriaal te ontwerpen dat zowel online als offline gebruikt kon worden.
+Voor de editie van 2017 werd ik gevraagd door de [Milieufederatie Utrecht](https://www.milieufederatieutrecht.nl) (tijdens mijn stage hier) om ondersteunend communicatiemateriaal te ontwerpen dat zowel online als offline gebruikt kon worden.
 
 ## Doel
 
 Het campagnebeeld moest:
 
 - de **magie van de duisternis** oproepen,  
-- het thema **duurzaamheid** benadrukken,  
+- het thema **duurzaam omgaan met licht** benadrukken,  
 - en aantrekkelijk zijn voor een **breed publiek**, van gezinnen tot natuurliefhebbers.  
 
 ## Proces
@@ -56,4 +56,4 @@ De herkenbare stijl zorgde voor een consistente uitstraling en versterkte de lan
 </div>
 
 Door de combinatie van **beeld, typografie en storytelling** werd de campagne visueel aantrekkelijk en tegelijkertijd inhoudelijk sterk.  
-De Nacht van de Nacht 2017 wist duizenden bezoekers te trekken en opnieuw aandacht te vragen voor het belang van duisternis in onze leefomgeving.
+De Nacht van de Nacht 2017 wist ontzettend veel bezoekers te trekken en opnieuw aandacht te vragen voor het belang van duisternis in onze leefomgeving.
