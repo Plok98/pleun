@@ -32,7 +32,7 @@ De focus lag op drie kernpunten:
 
 - **Gebruiksvriendelijkheid** – intuïtieve navigatie zonder overbodige functies.  
 - **Efficiëntie** – snel lessen en opdrachten kunnen plannen.  
-- **Overzicht** – in één oogopslag zien hoe de klas ervoor staat.  
+- **Overzicht** – in één oogopslag zien hoe de klas ervoor staat.
 
 ## Proces
 
@@ -42,7 +42,7 @@ Tijdens de ontwikkeling doorliep ik verschillende stappen:
 - **Wireframes & prototyping** – schetsen van een minimalistische, duidelijke interface.  
 - **Visueel ontwerp** – met een frisse en speelse stijl, zodat de app niet te zakelijk of saai oogt.  
 
-Het resultaat was een gebruikerstestbare app die direct door docenten werd uitgeprobeerd en aangescherpt op basis van feedback.
+Het resultaat was een gebruikerstestbare app in Adobe XD die direct door docenten werd uitgeprobeerd en aangescherpt op basis van feedback.
 
 ## Resultaat
 
@@ -75,5 +75,3 @@ De visuele stijl, met kleurrijke elementen en herkenbare iconen, maakte de app n
     <figcaption>Een kijkje in het ontwerpproces: de wireframes en prototypes gemaakt in Adobe XD.</figcaption>
   </figure>
 </div>
-
-Door de combinatie van **functionaliteit** en **gebruiksvriendelijk ontwerp** werd BLINK een waardevolle toevoeging voor docenten die meer grip willen krijgen op hun lespraktijk.

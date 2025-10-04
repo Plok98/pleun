@@ -21,7 +21,7 @@ paginate: true
 
 ## Introductie
 
-**HUKU BOO** is een platformer die ik ontwierp en ontwikkelde als experiment om **gameplay en visueel ontwerp** samen te brengen.  
+**HUKU BOO** is een platformer game die ik ontwierp en ontwikkelde als experiment om **gameplay en visueel ontwerp** samen te brengen.  
 Het verhaal draait om een klein spookje dat zijn lichaam kwijt is. Alleen de heks die het van hem afnam kan ervoor zorgen dat hij weer compleet wordt.  
 De speler begeleidt HUKU BOO door verschillende levels vol obstakels, puzzels en vijanden.
 

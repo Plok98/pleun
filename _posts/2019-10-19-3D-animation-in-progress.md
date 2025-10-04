@@ -19,8 +19,18 @@ paginate: true
 
 ## Introductie
 
-3D-animatie is een proces waarin **techniek en creativiteit** elkaar ontmoeten.  
-Voor dit project experimenteerde ik met het ontwerpen van een futuristische stad, texturen voor karakters en een visuele stijl die aansluit bij muziek en ritme.
+Tijdens mijn minor in Finland aan Metropolia heb ik mij gefocust op de ontwerpmogelijkheden in 3D.
+Het traject begon met de basis waarbij je zelf mocht uitvinden waar jouw kracht ligt bij het ontwerpen in 3D.
+
+- Stappen in het 3D-ontwerpproces:
+- Ontwikkelen van een idee of concept.
+- Leren werken met 3D-software en de basisbewerkingen.
+- Modelleren van vormen en structuren.
+- Toevoegen van materialen, texturen en belichting.
+- Renderen en visualiseren van het eindresultaat.
+- Reflecteren en optimaliseren op basis van feedback.
+
+Na het uitvogelen van deze stappen in een 3D proces werd er afgesloten met een  project waarbij ik in een groep van 8 andere studenten heb gewerkt aan een game die het gevoel van ritme bij de gebruiker moet helpen bij het spelen van de game.
 
 ## Doel
 
@@ -34,7 +44,7 @@ Het project had drie centrale doelen:
 
 Ik werkte met verschillende 3D-tools en rendertechnieken om:
 
-- **Metropolia** te creëren, een stedelijke omgeving vol futuristische details.  
+- **Follow the Beat** creëren, een omgeving vol futuristische details.  
 - **Bob Enemy** te testen met textuur- en animatievarianten.  
 - Een **animatiestill** te maken die de muzikale sfeer van *Follow The Beat* weergeeft.  
 
@@ -61,5 +71,3 @@ De resultaten zijn nog in ontwikkeling, maar laten zien hoe **experiment en iter
     <figcaption>Een still uit de animatie *Follow The Beat*, waarin ritme en beeld samenvallen.</figcaption>
   </figure>
 </div>
-
-Met deze experimenten leg ik de basis voor toekomstige 3D-projecten waarin **omgeving, karakter en muziek** elkaar versterken.

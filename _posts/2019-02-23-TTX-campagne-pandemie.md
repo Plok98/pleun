@@ -39,6 +39,7 @@ Tijdens het traject werkte ik aan:
 - Een **brandbook** met richtlijnen voor logo, typografie, kleuren en tone of voice.  
 - Een reeks **posters** die angst en verwarring oproepen, en tegelijkertijd informatief zijn.  
 - Experimentele combinaties van **grafisch ontwerp** en **campagnetaal** geïnspireerd op noodcommunicatie.  
+- Een **website** met de benodigde informatie over de uitbraak en wat jij kunt doen.
 
 ## Resultaat
 
@@ -68,4 +69,4 @@ De **TTX-pandemiecampagne** wist de spanning van een mogelijke uitbraak te verbe
   </figure>
 </div>
 
-Door de combinatie van **branding, posterdesign en visuele storytelling** werd de TTX-pandemiecampagne een krachtig concept dat de impact van pandemische communicatie onderzoekt.
+Door de combinatie van **branding, posterdesign en visuele storytelling** werd de TTX-pandemiecampagne een krachtig concept dat de impact van communicadtie tijdens een pandemie onderzoekt.

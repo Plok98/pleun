@@ -123,5 +123,3 @@ Dankzij de combinatie van decor en animatie ontstond een **visuele beleving** di
   </figure>
 </div>
 
-Door het combineren van **decor, animatie en live interactie** kreeg de 90’s gameshow een frisse comeback, passend in een moderne streamingomgeving.
-

@@ -41,7 +41,7 @@ De campagne werd opgebouwd rond drie kernonderdelen:
 
 ## Resultaat
 
-Het eindresultaat was een crossmediaal campagneconcept waarin **branding, print en digital** elkaar versterken.  
+Het eindresultaat was een transmediaal campagneconcept waarin **branding, print en digital** elkaar versterken.  
 De visuele stijl sloot naadloos aan bij de doelgroep en benadrukte het speelse, interactieve karakter van UpDate.
 
 ### Brandbook
