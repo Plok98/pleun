@@ -22,7 +22,7 @@ paginate: true
 Tijdens mijn minor in Finland aan Metropolia heb ik mij gefocust op de ontwerpmogelijkheden in 3D.
 Het traject begon met de basis waarbij je zelf mocht uitvinden waar jouw kracht ligt bij het ontwerpen in 3D.
 
-- Stappen in het 3D-ontwerpproces:
+Stappen in het 3D-ontwerpproces:
 - Ontwikkelen van een idee of concept.
 - Leren werken met 3D-software en de basisbewerkingen.
 - Modelleren van vormen en structuren.
@@ -30,7 +30,7 @@ Het traject begon met de basis waarbij je zelf mocht uitvinden waar jouw kracht 
 - Renderen en visualiseren van het eindresultaat.
 - Reflecteren en optimaliseren op basis van feedback.
 
-Na het uitvogelen van deze stappen in een 3D proces werd er afgesloten met een  project waarbij ik in een groep van 8 andere studenten heb gewerkt aan een game die het gevoel van ritme bij de gebruiker moet helpen bij het spelen van de game.
+Na het uitvogelen van deze stappen in een 3D proces werd er afgesloten met een  project waarbij ik in een groep van 8 andere studenten heb gewerkt aan een game die het gevoel van ritme bij de gebruiker moet helpen bij het spelen van een game.
 
 ## Doel
 
@@ -42,7 +42,8 @@ Het project had drie centrale doelen:
 
 ## Proces
 
-Ik werkte met verschillende 3D-tools en rendertechnieken om:
+Ik heb zowel Maya als Blender uitgeprobeerd tijdens de minor.
+Maar tijdens het eindproject lag de focus op Maya en verschillende rendertechnieken om:
 
 - **Follow the Beat** creëren, een omgeving vol futuristische details.  
 - **Bob Enemy** te testen met textuur- en animatievarianten.  
@@ -54,13 +55,13 @@ De resultaten zijn nog in ontwikkeling, maar laten zien hoe **experiment en iter
 
 <div class="image-grid">
   <figure>
-    <object data="{{ site.baseurl }}/assets/img/post_media/3d/3d_metropolia.pm4" type="application/pdf" width="100%" height="400px">
-      <p>Bekijk hier de <a href="{{ site.baseurl }}/assets/img/post_media/3d/3d_metropolia.pm4">3D Metropolia omgeving</a>.</p>
+    <object data="{{ site.baseurl }}/assets/img/post_media/3d/3d_metropolia.mp4" type="application/pdf" width="100%" height="400px">
+      <p>Bekijk hier de <a href="{{ site.baseurl }}/assets/img/post_media/3d/3d_metropolia.mp4">3D ontwerpen</a>.</p>
     </object>
-    <figcaption>Een vroege versie van de 3D-stad Metropolia, waarin gebouwen en sfeer centraal staan.</figcaption>
+    <figcaption>Verschillende flat en 3D ontwerpen tijdens mijn minor aan Metropolia in Finland.</figcaption>
   </figure>
   <figure>
-    <video controls>
+    <video width="500" controls>
       <source src="{{ site.baseurl }}/assets/img/post_media/3d/bob_enemy_texture.mp4" type="video/mp4">
       Je browser ondersteunt geen video.
     </video>

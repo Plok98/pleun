@@ -49,7 +49,7 @@ De kleurrijke pixelart en de vloeiende animaties geven de game een eigen karakte
 
 <div class="image-grid">
   <figure>
-    <video controls>
+    <video width="500" controls>
       <source src="{{ site.baseurl }}/assets/img/post_media/huku_boo/aboutHUKU.MP4" type="video/mp4">
       Je browser ondersteunt geen video.
     </video>
@@ -64,7 +64,7 @@ De kleurrijke pixelart en de vloeiende animaties geven de game een eigen karakte
     <figcaption>De officiële poster van HUKU BOO, gebruikt als promotiemateriaal voor de game.</figcaption>
   </figure>
   <figure>
-    <video controls>
+    <video width="500" controls>
       <source src="{{ site.baseurl }}/assets/img/post_media/huku_boo/theGame.mp4" type="video/mp4">
       Je browser ondersteunt geen video.
     </video>

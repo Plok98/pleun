@@ -48,7 +48,7 @@ Dankzij de combinatie van decor en animatie ontstond een **visuele beleving** di
 
 <div class="image-grid">
   <figure>
-    <video controls>
+    <video width="500" controls>
       <source src="{{ site.baseurl }}/assets/img/post_media/vet_kicken/decor_video.mp4" type="video/mp4">
       Je browser ondersteunt geen video.
     </video>
@@ -80,7 +80,7 @@ Dankzij de combinatie van decor en animatie ontstond een **visuele beleving** di
 
 <div class="image-grid">
   <figure>
-    <video controls>
+    <video width="500" controls>
       <source src="{{ site.baseurl }}/assets/img/post_media/vet_kicken/character_animation.mp4" type="video/mp4">
       Je browser ondersteunt geen video.
     </video>
